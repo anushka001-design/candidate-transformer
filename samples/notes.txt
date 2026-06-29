@@ -1,0 +1,6 @@
+Candidate: Alex Johnson
+Email: alex.johnson@example.com
+Phone: +1 (415) 555-0100
+Location: San Francisco, CA, USA
+Summary: Senior Data Scientist with 8 years of experience in Machine Learning and Python.
+Skills: Python, ML, SQL
