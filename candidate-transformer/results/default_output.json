@@ -1,0 +1,218 @@
+{
+  "candidate_id": "6913c9706fda0aef",
+  "full_name": "Alex Johnson",
+  "emails": [
+    "alex.johnson@example.com",
+    "alex.j@example.com"
+  ],
+  "phones": [
+    "+14155550100"
+  ],
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "US"
+  },
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Senior Data Scientist with 8 years of experience in Machine Learning and Python",
+  "years_experience": 8.0,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 0.8,
+      "sources": [
+        "notes_txt:notes.txt",
+        "ats_json:ats.json"
+      ]
+    },
+    {
+      "name": "SQL",
+      "confidence": 0.8,
+      "sources": [
+        "notes_txt:notes.txt",
+        "ats_json:ats.json"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": 0.8,
+      "sources": [
+        "notes_txt:notes.txt",
+        "ats_json:ats.json"
+      ]
+    }
+  ],
+  "experience": [],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "end_year": "2016"
+    }
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv:recruiter.csv",
+      "method": "csv",
+      "value": "Alex Johnson"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv:recruiter.csv",
+      "method": "csv",
+      "value": "alex.johnson@example.com"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv:recruiter.csv",
+      "method": "csv",
+      "value": "+14155550100"
+    },
+    {
+      "field": "current_company",
+      "source": "recruiter_csv:recruiter.csv",
+      "method": "csv",
+      "value": "Acme Corp"
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_csv:recruiter.csv",
+      "method": "csv",
+      "value": "Senior Data Scientist"
+    },
+    {
+      "field": "full_name",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "Alex Johnson"
+    },
+    {
+      "field": "emails",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "alex.j@example.com"
+    },
+    {
+      "field": "phones",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "+14155550100"
+    },
+    {
+      "field": "location.city",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "San Francisco"
+    },
+    {
+      "field": "location.region",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "CA"
+    },
+    {
+      "field": "location.country",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "US"
+    },
+    {
+      "field": "headline",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "Data Scientist focused on ML, analytics, and production modeling."
+    },
+    {
+      "field": "skills",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "Python"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "SQL"
+    },
+    {
+      "field": "skills",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "Machine Learning"
+    },
+    {
+      "field": "education",
+      "source": "ats_json:ats.json",
+      "method": "json",
+      "value": "University of California, Berkeley"
+    },
+    {
+      "field": "headline",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "Senior Data Scientist with 8 years of experience in Machine Learning and Python"
+    },
+    {
+      "field": "emails",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "alex.johnson@example.com"
+    },
+    {
+      "field": "phones",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "+14155550100"
+    },
+    {
+      "field": "location.city",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "San Francisco"
+    },
+    {
+      "field": "location.region",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "CA"
+    },
+    {
+      "field": "location.country",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "US"
+    },
+    {
+      "field": "years_experience",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": 8.0
+    },
+    {
+      "field": "skills",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "SQL"
+    },
+    {
+      "field": "skills",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "Machine Learning"
+    },
+    {
+      "field": "skills",
+      "source": "notes_txt:notes.txt",
+      "method": "nlp",
+      "value": "Python"
+    }
+  ],
+  "overall_confidence": 0.777
+}
